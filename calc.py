@@ -8,6 +8,6 @@ def main():
     print testfunc().__doc__
 def testfunc():
     This is a test function
-    print('This is a test function')
+    print('This is a test functions')
 
 if __name__ == "__main__": main()
