@@ -1041,3 +1041,4 @@ tweet_id	tweet_time	tweet_text	tweet_coordinates	lat_origin	long_origin	uber_est
 831843076075376640	2017-02-15 07:30:18-05:00	"More music \ud83c\udfb6 by De-Va'Je \n\nhttps://t.co/XVPB2PtssV @ Devaje Mathis Entertainment Group https://t.co/DkLS7oYXWS"	[33.6509, -81.36198]	33.6509	-81.36198	34.0
 831843079116058624	2017-02-15 07:30:19-05:00	"overcast clouds -&gt; light rain\ntemperature up 50\u00b0F -&gt; 52\u00b0F\nhumidity up 41% -&gt; 69%\nwind 9mph -&gt; 3mph"	[35.23, -80.84]	35.23	-80.84	37.0
 831843121243774977	2017-02-15 07:30:29-05:00	"Greetings from the top of Columbia-The Capital City Club - with the awesome CEOA. MAKE IT A\u2026 https://t.co/sMAhld1JNc"	[34.00120087, -81.03487654]	34.00120087	-81.03487654	33.0
+831845358762336257	2017-02-15 07:39:23-05:00	"You won't get much done if you only GRIND on the days you feel good..... No Days Off!!! @\u2026 https://t.co/XFhwh2ulNQ"	[35.240685, -80.836061]	35.240685	-80.836061	57.0
