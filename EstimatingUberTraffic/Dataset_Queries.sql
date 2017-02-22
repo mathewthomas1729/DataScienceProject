@@ -1,6 +1,6 @@
 --move dataset to data directory without headers;
 
-delete * from tweet_dataset;
+delete  from tweet_dataset;
 
 copy tweet_dataset from 'C:\Program Files\PostgreSQL\9.6\data\sample_streamed.txt' with delimiter E'\t';
 
