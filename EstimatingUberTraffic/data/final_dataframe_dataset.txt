@@ -1,0 +1,1 @@
+tweet_id	tweet_time	tweet_text	tweet_coordinates	lat_origin	long_origin	uber_estimate	zip_code	eastern_time	hours	weekday	day_hour	Is_Traffic_Related
