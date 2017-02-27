@@ -1,4 +1,6 @@
 SpringboardCapstone Project - Estimating Uber Prices
+
+
 List of files in this directory:
 
 DataStory-Estimation_Uber_Prices.ipynb    Data story submitted as part of course material
@@ -10,6 +12,8 @@ FeatureAnalysis.ipynb                      Python code for exploratory analysis
 GenerateBagOfWords.ipynb                   Python code to generate bag of words and sentiment analysis
 
 README.md                                 This file
+
+data                                      data directory of files
 
 GetFinalStreamedDataSet.ipynb             Python code to get data from twitter and UBER
 
