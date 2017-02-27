@@ -1,8 +1,7 @@
 SpringboardCapstone Project - Estimating Uber Prices
-
 List of files in this directory:
 
-EDataStory-Estimation_Uber_Prices.ipynb    Data story submitted as part of course material
+DataStory-Estimation_Uber_Prices.ipynb    Data story submitted as part of course material
 
 Dataset_Queries.sql                        SQL queries used to analyze data
 
