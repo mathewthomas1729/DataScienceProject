@@ -1,12 +1,11 @@
 # DataScienceProject<br>
-
 This repository has all files that are related to assignments and Projects that were part of Springboards Data Science Intensive Course completed by Mathew Thomas. <br><br>
 
 #### Link to Course Curriculum <br>
 https://www.springboard.com/workshops/data-science-intensive/#curriculum-syllabus-ctn <br>
 
 
-### Topics Covered: <br>
+#### Topics Covered: <br>
   1. Data Wrangling  using Pandas, numpy , Matplotlib etc. <br>
   2. Inferential Statistics Excercises <br>
   3. Linear Regression <br>
