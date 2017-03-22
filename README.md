@@ -13,4 +13,4 @@ https://www.springboard.com/workshops/data-science-intensive/#curriculum-syllabu
   5. Naive Bayes Mini Project <br>
   6. Clustering Mini Project <br>
   7. Movie Recommender System Example <br>
-  8. Capstone Project - <i>Estimating Uber Prices by analyzing Twitter Feed</i> <br>
+  8. Capstone Project - <i><b>Estimating Uber Prices by analyzing Twitter Feed</i></b> <br>
